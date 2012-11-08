@@ -1,0 +1,1 @@
+console.log('PARSED page2.js');
